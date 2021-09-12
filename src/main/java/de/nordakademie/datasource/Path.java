@@ -8,17 +8,17 @@ public class Path {
     Integer cost = 0;
 
     public void addNodeToBeginning(Node node) {
-        cost += node.getF();
+        cost += 1;
         nodeList.add(0, node);
     }
 
     public void addNodeToEnd(Node node) {
-        cost += node.getF();
+        cost += 1;
         nodeList.add(node);
     }
 
     public int getCost() {
-       return nodeList.get(nodeList.size() - 1).getF();
+       return cost;
     }
     public List<Node> getNodes() {
         return nodeList;

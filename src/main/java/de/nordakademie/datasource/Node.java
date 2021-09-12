@@ -4,6 +4,7 @@ public class Node implements Comparable<Node> {
 	private int x, y, g, h, f;
 	private Node parent;
 	private nodeType type;
+	private String name;
 
 	public Node(int y, int x, nodeType type) {
 		this.y = y;

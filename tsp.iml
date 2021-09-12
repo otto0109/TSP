@@ -17,10 +17,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.objenesis:objenesis:3.2" level="project" />
     <orderEntry type="library" name="Maven: org.jgrapht:jgrapht-core:1.5.1" level="project" />
     <orderEntry type="library" name="Maven: org.jheaps:jheaps:0.13" level="project" />
-    <orderEntry type="library" name="Maven: org.jgrapht:jgrapht-ext:1.0.1" level="project" />
-    <orderEntry type="library" name="Maven: org.tinyjee.jgraphx:jgraphx:2.0.0.1" level="project" />
-    <orderEntry type="library" name="Maven: jgraph:jgraph:5.13.0.0" level="project" />
-    <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.5.3" level="project" />
-    <orderEntry type="library" name="Maven: com.github.xaguzman:pathfinding:0.2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.jgrapht:jgrapht-ext:1.5.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.vlsi.mxgraph:jgraphx:4.1.0" level="project" />
   </component>
 </module>
